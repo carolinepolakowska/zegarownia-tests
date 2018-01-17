@@ -1,0 +1,1753 @@
+1516130451938	geckodriver	INFO	geckodriver 0.19.1
+1516130451946	geckodriver	INFO	Listening on 127.0.0.1:55079
+1516130455030	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.3Apk3XtLxAxP"
+1516130455979	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516130458614	Marionette	INFO	Listening on port 55091
+1516130458796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516130458870	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+5461	Marionette	INFO	Listening on port 55126
+1516130465676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516130465773	Marionette	DEBUG	Register listener.js for window 4294967297
+1516130465848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516130466747	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516130466748	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516130467791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516130470615	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+[Parent 6812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516130510761	geckodriver	INFO	geckodriver 0.19.1
+1516130510769	geckodriver	INFO	Listening on 127.0.0.1:55207
+1516130513808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.fhUn05kjerr5"
+1516130514734	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516130516625	Marionette	INFO	Listening on port 55215
+1516130517095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516130517159	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+ for window 4294967297
+1516130523559	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516130524342	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516130524342	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516130525487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516130526451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516130528618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516130528618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516130529185	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516130529189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516130599869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516130599870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516130599871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516130599874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516130599876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516130599878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516130599878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516130599879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1516130651748	geckodriver	INFO	geckodriver 0.19.1
+1516130651757	geckodriver	INFO	Listening on 127.0.0.1:55351
+1516130654812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.lJ2fEokSCx90"
+1516130655560	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516130657401	Marionette	INFO	Listening on port 55360
+1516130657983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516130658041	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 10476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516130665898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516130665898	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516130667535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516130668244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516130670621	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://zegarownia.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/TooltipTextProvider.js, line 15: TypeError: can't access dead object
+[Child 13620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+ for window 4294967297
+1516130883032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516130884534	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516130884534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516130886719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516130886853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516130886932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516130887435	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516166509951	geckodriver	INFO	geckodriver 0.19.1
+1516166509961	geckodriver	INFO	Listening on 127.0.0.1:55945
+1516166513006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.1tbWK4cjtQTq"
+1516166514065	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516166516308	Marionette	INFO	Listening on port 55953
+1516166516787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516166516883	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 17196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516166522829	Marionette	INFO	Listening on port 55987
+1516166523215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516166523312	Marionette	DEBUG	Register listener.js for window 4294967297
+1516166523375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516166524199	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516166524199	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516166525412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516166526480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516166526730	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516166527208	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516166527970	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516166527974	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516166528460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516166528461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516166528675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516166529131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516166529614	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commUnable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+	Received DOM event "beforeunload" for "about:blank"
+1516166598087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516166598087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516166599336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516166600449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516166600849	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516166601250	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516166601322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516166601672	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516166601678	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516166601687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516166601688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516166602244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516166602245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516166602476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516166602998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516166603406	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+[Parent 17312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+egistry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+
+1516166998406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516167003189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516167003192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516167009395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516167009396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516167009396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516167009397	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+1516167030286	geckodriver	INFO	geckodriver 0.19.1
+1516167030296	geckodriver	INFO	Listening on 127.0.0.1:56401
+1516167033333	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.XcyGmz0DwE4r"
+1516167034329	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516167036347	Marionette	INFO	Listening on port 56410
+1516167036584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516167036706	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+er notification "outer-window-destroyed" for "4294967304"
+1516167050901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516167050906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516167062914	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516167072434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516167072434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516167072435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516167072435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+1516167112740	geckodriver	INFO	geckodriver 0.19.1
+1516167112750	geckodriver	INFO	Listening on 127.0.0.1:56512
+1516167115800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.vEMXGxTwK8eF"
+1516167116632	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516167118684	Marionette	INFO	Listening on port 56520
+1516167118980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516167119074	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+errors will be ignored for this session
+1516167125516	Marionette	DEBUG	Register listener.js for window 4294967297
+1516167125586	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516167126272	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516167126272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516167127526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516167128568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516167128983	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516167129381	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516167129459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516167130180	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516167130183	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516167130783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516167130783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1516167131003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516167131422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516167131816	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516167526681	geckodriver	INFO	geckodriver 0.19.1
+1516167526690	geckodriver	INFO	Listening on 127.0.0.1:56701
+1516167529766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.2ehKL2lp3VQ9"
+1516167530478	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516167532328	Marionette	INFO	Listening on port 56709
+1516167532878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516167532941	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Received DOM event "beforeunload" for "about:blank"
+1516167540217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516167540217	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516167541323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516167542212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516167542886	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516167543600	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516167543658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516167544412	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516167544415	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516167544869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516167544869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1516167544869	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516167544870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516167544870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516167545076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516167545451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516167545811	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516167545906	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516167546182	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516167546182	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516167546603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1516167546603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516167546603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1516167546603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1516167546782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516167547112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516167547485	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+[Parent 13092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516183226682	geckodriver	INFO	geckodriver 0.19.1
+1516183226690	geckodriver	INFO	Listening on 127.0.0.1:54033
+1516183229787	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.JnnltlJlbJWn"
+1516183230713	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516183232719	Marionette	INFO	Listening on port 54041
+1516183232986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516183233080	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516183238762	Marionette	INFO	Listening on port 53354
+1516183239426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516183239483	Marionette	DEBUG	Register listener.js for window 4294967297
+1516183239530	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516183240679	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516183240679	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516183242610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516183243569	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516183244086	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516183244660	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516183245553	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516183245558	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516183245563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516183245564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516183246251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1516183246251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516183246251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516183246252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516183246411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516183246766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516183247033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516183247036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1516183247156	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516183247243	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516183247614	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516183247615	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516183248212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1516183248213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1516183248213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516183248213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1516183248213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1516183248348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516183248651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1516183248953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1516183248957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1516183249228	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+[Parent 13252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516184288820	geckodriver	INFO	geckodriver 0.19.1
+1516184288827	geckodriver	INFO	Listening on 127.0.0.1:62469
+1516184291865	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.vKv4YZ0K55bh"
+1516184292747	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516184294918	Marionette	INFO	Listening on port 62477
+1516184295102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516184295205	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 14868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tomer/account/login/"
+1516184311148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516184318058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516184318062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516184339424	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1516184339425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516184339426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516184339426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1516184392848	geckodriver	INFO	geckodriver 0.19.1
+1516184392855	geckodriver	INFO	Listening on 127.0.0.1:53675
+1516184395920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.h3c2cfebASDb"
+1516184396762	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516184398598	Marionette	INFO	Listening on port 53683
+1516184399107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516184399162	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+errors will be ignored for this session
+1516184405498	Marionette	DEBUG	Register listener.js for window 4294967297
+1516184405546	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516184406017	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516184406017	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516184407181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516184408109	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516184408461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516184408463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516184408536	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516184408915	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516184409011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516184409966	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516184409969	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516184410508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516184410508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516184410508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516184410509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516184410694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516184411044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516184411303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516184411307	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516184411427	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516184411546	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516184411887	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516184411887	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516184412414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516184412414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516184412414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516184412415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516184412415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1516184412415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516184412578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516184412894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1516184413191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1516184413196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1516184413607	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+[Parent 14492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516184599349	geckodriver	INFO	geckodriver 0.19.1
+1516184599356	geckodriver	INFO	Listening on 127.0.0.1:65080
+1516184602391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.8EKsMpnNTu4z"
+1516184603256	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516184604858	Marionette	INFO	Listening on port 65090
+1516184605522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516184605579	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te errors will be ignored for this session
+1516184611890	Marionette	DEBUG	Register listener.js for window 4294967297
+1516184611938	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516184612984	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516184612984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516184614131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516184614776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516184615047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516184615049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516184615503	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516184615716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516184615840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516189325077	geckodriver	INFO	geckodriver 0.19.1
+1516189325084	geckodriver	INFO	Listening on 127.0.0.1:61722
+1516189328105	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.CMtwqEf6ztkn"
+1516189328745	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516189330405	Marionette	INFO	Listening on port 61734
+1516189331227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189331280	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chrome/common/ipc_channel_win.cc, line 346
+[Child 15248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516189336635	Marionette	INFO	Listening on port 61772
+1516189337623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189337670	Marionette	DEBUG	Register listener.js for window 4294967297
+1516189337728	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516189338314	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516189338314	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516189339544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516189340198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516189340584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516189340586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516189341014	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516189341284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516189341366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516189578106	geckodriver	INFO	geckodriver 0.19.1
+1516189578114	geckodriver	INFO	Listening on 127.0.0.1:53425
+1516189581137	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.0Gonm2xxfYbh"
+1516189581986	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516189583562	Marionette	INFO	Listening on port 53433
+1516189584332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189584380	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+erver notification "outer-window-destroyed" for "4294967310"
+1516189593447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516189593488	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516189593807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516189593888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400A8,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x850006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516189721986	geckodriver	INFO	geckodriver 0.19.1
+1516189721993	geckodriver	INFO	Listening on 127.0.0.1:49479
+1516189725023	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.vyKpmyNfky91"
+1516189725750	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516189727390	Marionette	INFO	Listening on port 49487
+1516189728153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189728207	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+in/"
+1516189736610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516189736797	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516189737355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516189737358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1516189737361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://zegarownia.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+openvrpaths.vrpath
+[Child 16872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+	Marionette	INFO	Listening on port 62544
+1516189801289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189801352	Marionette	DEBUG	Register listener.js for window 4294967297
+1516189801400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516189802039	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516189802040	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516189803474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516189804460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516189805120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516189805122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516189806778	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516189807105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516189807241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516189891246	geckodriver	INFO	geckodriver 0.19.1
+1516189891257	geckodriver	INFO	Listening on 127.0.0.1:57848
+1516189894327	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.vkZ4tS7B69e1"
+1516189895177	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516189896690	Marionette	INFO	Listening on port 57856
+1516189897520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516189897576	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n/"
+1516189906370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516189907633	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516189908130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+1516190015613	geckodriver	INFO	geckodriver 0.19.1
+1516190015622	geckodriver	INFO	Listening on 127.0.0.1:60496
+1516190018659	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.bFut6K89fJz9"
+1516190019284	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190020961	Marionette	INFO	Listening on port 60504
+1516190021832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190021886	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+vent "pagehide" for "about:blank"
+1516190029236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190030447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190031008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516190031604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190031606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190031978	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190032272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190032335	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://zegarownia.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516190119877	geckodriver	INFO	geckodriver 0.19.1
+1516190119884	geckodriver	INFO	Listening on 127.0.0.1:64974
+1516190122925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.nebkA8mZu0gD"
+1516190123569	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190125194	Marionette	INFO	Listening on port 64982
+1516190126179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190126231	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ for window 4294967297
+1516190131577	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190132350	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190132350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190133779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190135170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1516190135172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516190135192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516190135950	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190136224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190136299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://zegarownia.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 15876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16176, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 16176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+win.cc, line 346
+[Child 7672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ate errors will be ignored for this session
+1516190222915	Marionette	DEBUG	Register listener.js for window 4294967297
+1516190222965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190223605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190223605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190225045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190226302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190226305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190226665	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190226972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190227025	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+egistry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1	Marionette	INFO	Listening on port 49957
+1516190306995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190307055	Marionette	DEBUG	Register listener.js for window 4294967297
+1516190307094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190307967	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190307967	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190309334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190310385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516190310911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190310915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190311026	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190311386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190311462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+1516190454321	geckodriver	INFO	geckodriver 0.19.1
+1516190454328	geckodriver	INFO	Listening on 127.0.0.1:54469
+1516190457352	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.E2bQxbDYKjYW"
+1516190458186	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190459753	Marionette	INFO	Listening on port 54477
+1516190460483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190460533	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+chrome/common/ipc_channel_win.cc, line 346
+1516190465725	Marionette	INFO	Listening on port 54509
+1516190466777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190466829	Marionette	DEBUG	Register listener.js for window 4294967297
+1516190466883	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190467391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190467392	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190468477	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190469265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516190469660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190469663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190469861	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190470181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190470265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://zegarownia.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e errors will be ignored for this session
+1516190523126	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190528321	Marionette	INFO	Listening on port 54675
+1516190529380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190529429	Marionette	DEBUG	Register listener.js for window 4294967297
+1516190529474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190530031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190530032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190531195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190531702	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516190532272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516190532274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516190532568	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190532926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190532975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+or window 4294967297
+1516190642964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190643518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190643518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190644748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190645730	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516190646287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516190646291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1516190646353	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190646698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516190646769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190749840	geckodriver	INFO	geckodriver 0.19.1
+1516190749848	geckodriver	INFO	Listening on 127.0.0.1:65341
+1516190752878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.5rDZJaOhhIqn"
+1516190753693	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190755359	Marionette	INFO	Listening on port 65349
+1516190756064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190756112	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 11104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516190761337	Marionette	INFO	Listening on port 65381
+1516190762412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516190762460	Marionette	DEBUG	Register listener.js for window 4294967297
+1516190762510	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190763059	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190763059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190764262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190764888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516190765342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190765344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190766733	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190767029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190767102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516190874830	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516190874831	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516190875847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516190876580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516190877032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516190877034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516190877219	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516190877545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516190877636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516191569758	geckodriver	INFO	geckodriver 0.19.1
+1516191569766	geckodriver	INFO	Listening on 127.0.0.1:55959
+1516191572830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.zZm31GNUI15G"
+1516191573515	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516191575172	Marionette	INFO	Listening on port 55967
+1516191576011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191576065	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516191581366	Marionette	INFO	Listening on port 55997
+1516191582307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191582355	Marionette	DEBUG	Register listener.js for window 4294967297
+1516191582408	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516191582986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516191582987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516191584097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516191585234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516191585505	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516191586147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516191770839	geckodriver	INFO	geckodriver 0.19.1
+1516191770849	geckodriver	INFO	Listening on 127.0.0.1:63188
+1516191773858	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.FtCc3ZIA4hFO"
+1516191774717	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516191776383	Marionette	INFO	Listening on port 63196
+1516191777111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191777165	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"
+1516191786220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516191786535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516191786539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516191786674	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516191787013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516191787111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516191867837	geckodriver	INFO	geckodriver 0.19.1
+1516191867844	geckodriver	INFO	Listening on 127.0.0.1:60626
+1516191870895	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.a4hhlW959hl5"
+1516191871473	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516191873057	Marionette	INFO	Listening on port 60634
+1516191874089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191874144	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/src/chrome/common/ipc_channel_win.cc, line 346
+1516191879432	Marionette	INFO	Listening on port 60665
+1516191880416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191880464	Marionette	DEBUG	Register listener.js for window 4294967297
+1516191880511	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516191881152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516191881153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516191882372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516191882896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516191883355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516191883362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516191883828	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516191884145	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1516191884242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516191952352	geckodriver	INFO	geckodriver 0.19.1
+1516191952359	geckodriver	INFO	Listening on 127.0.0.1:60520
+1516191955418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.4TqVdHiBgQIH"
+1516191956033	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516191957636	Marionette	INFO	Listening on port 60528
+1516191958559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516191958614	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+M event "pagehide" for "about:blank"
+1516191965445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516191966591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516191967724	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516191967726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1516191967762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516191967881	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516191968255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516191968285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+egarownia.pl/customer/account/login/"
+1516191978876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516191978877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516191978877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516191978877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516191979033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516191979364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516191979582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516191979592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516191979685	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516191979761	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516191980122	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516191980122	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516191980574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516191980575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516191980576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516191980576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516191980576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1516191980725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516191981057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1516191981374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1516191981376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1516191981977	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+1516199188558	geckodriver	INFO	geckodriver 0.19.1
+1516199188566	geckodriver	INFO	Listening on 127.0.0.1:64528
+1516199191651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.lyGMmhiWoFUo"
+1516199193152	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199196984	Marionette	INFO	Listening on port 64538
+1516199197157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199197289	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d DOM event "pagehide" for "about:blank"
+1516199206494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516199208022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199209061	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516199209299	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199210285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+://zegarownia.pl/customer/account/login/"
+1516199222193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516199222645	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199223032	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516199223086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199223773	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516199223775	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516199224219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199224224	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516199224670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516199225321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516199225492	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516199225603	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516199225886	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516199225886	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516199225895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516199225896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516199226281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1516199226281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516199226282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516199226498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516199226951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516199227198	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+[Parent 13960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516199270275	geckodriver	INFO	geckodriver 0.19.1
+1516199270282	geckodriver	INFO	Listening on 127.0.0.1:53076
+1516199273333	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.AeCZ3sXIrGq5"
+1516199274414	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199276492	Marionette	INFO	Listening on port 53085
+1516199276542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199276654	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+otification "outer-window-destroyed" for "4294967307"
+1516199286937	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199287646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516199338408	geckodriver	INFO	geckodriver 0.19.1
+1516199338420	geckodriver	INFO	Listening on 127.0.0.1:53220
+1516199341472	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.UXQSlmlSuM8I"
+1516199342200	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199344124	Marionette	INFO	Listening on port 53229
+1516199344663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199344733	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199353614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516199353925	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199354273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199354410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+199360876	Marionette	DEBUG	Register listener.js for window 4294967297
+1516199361006	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516199361835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516199361835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516199362952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199363779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1516199364203	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199364706	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516199365411	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516199365420	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516199365432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516199365432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516199365434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516199365435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1516199365679	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199365680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516199365911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516199366326	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516199367620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1516199367622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1516199481762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516199481762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516199481763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1516199481763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1516199481765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516199481766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516199481766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516199481766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1516199481766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1516199481767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516199533240	geckodriver	INFO	geckodriver 0.19.1
+1516199533248	geckodriver	INFO	Listening on 127.0.0.1:53493
+1516199536274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.YggGfyERsaT4"
+1516199537143	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199538853	Marionette	INFO	Listening on port 53501
+1516199539451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199539510	Marionette	DEBUG	Register listener.js for window 4294967297
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199544876	Marionette	INFO	Listening on port 53533
+1516199545865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199545922	Marionette	DEBUG	Register listener.js for window 4294967297
+1516199545971	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516199546593	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516199546594	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516199547546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199547912	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199548360	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199548579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199548724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+
+1516199555518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516199555518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516199556215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199556921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1516199557778	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199558121	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516199558162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516199558828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1516199558829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516199558835	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516199558841	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516199558846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199558847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516199559062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199559063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516199559214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516199559512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516199559722	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516199559784	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516199559978	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516199559978	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516199560168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516199560168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1516199560169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516199560303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516199560597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1516199560843	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516199679357	geckodriver	INFO	geckodriver 0.19.1
+1516199679365	geckodriver	INFO	Listening on 127.0.0.1:53752
+1516199682418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\polakowc\\AppData\\Local\\Temp\\rust_mozprofile.MYO8clu3QIyB"
+1516199683093	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516199684874	Marionette	INFO	Listening on port 53760
+1516199685624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516199685676	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+M event "pagehide" for "about:blank"
+1516199692664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516199693608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/login/"
+1516199694302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199694439	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199694666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199694840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed DOM event "pageshow" for "https://zegarownia.pl/customer/account/login/"
+1516199703972	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/login/"
+1516199704026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516199704663	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/login/"
+1516199704665	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/login/"
+1516199704670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516199704672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516199704901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516199704902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1516199704903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516199705076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/"
+1516199705416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516199705627	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/"
+1516199705685	Marionette	DEBUG	Received DOM event "beforeunload" for "https://zegarownia.pl/customer/account/"
+1516199705929	Marionette	DEBUG	Received DOM event "pagehide" for "https://zegarownia.pl/customer/account/"
+1516199705929	Marionette	DEBUG	Received DOM event "unload" for "https://zegarownia.pl/customer/account/"
+1516199705936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516199705937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516199706168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516199706168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1516199706168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516199706335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+1516199706650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1516199706884	Marionette	DEBUG	Received DOM event "pageshow" for "https://zegarownia.pl/customer/account/logoutSuccess/"
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\polakowc\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
